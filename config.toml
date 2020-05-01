@@ -1,0 +1,2 @@
+server="mongodb+srv://admin:pwdadmin@dynamic-dug18.mongodb.net/test?replicaSet=dynamic-shard-0&authSource=admin"
+database="go-database"
